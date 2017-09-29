@@ -1,0 +1,22 @@
+.box {
+  overflow: hidden;
+  box-shadow: none !important;
+}
+
+.app-toolbar {
+  min-height: 50px !important;
+}
+
+.app-toolbar .title {
+  margin-top: 16px !important;
+}
+
+.content-wrapper {
+  width: 100%;
+}
+
+.box-content {
+  height: 393px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
